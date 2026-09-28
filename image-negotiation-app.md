@@ -1,4 +1,4 @@
-# Between: Negotiating Emotional Images with Generative AI
+# “What Did the Image Get Wrong?”: Negotiating AI-Generated Images for Emotional Articulation
 
 ## Background
 
@@ -34,6 +34,43 @@ This creates an interesting HCI research opportunity for four reasons:
 4. **The idea extends beyond mental wellbeing.** Image negotiation may also inform systems for identity exploration, grief, chronic illness, conflict mediation, and other experiences that are difficult to express directly.
 
 The proposed contribution is therefore not simply another AI art or wellness application. It is a new interaction technique for examining how representational disagreement with generative AI can support emotional articulation, personal agency, and reflective meaning-making.
+
+## Theoretical Foundation
+
+### Primary Theory: Reflective Conversation with Materials
+
+The work can be grounded in Donald Schön's theory of **reflection-in-action**, particularly the idea of a **reflective conversation with materials**. Schön argued that people do not always begin with a complete internal idea and then simply execute it. Instead, they act upon a material, observe how it “talks back,” notice unexpected consequences, and revise both the representation and their understanding of the situation.
+
+Image negotiation applies this theory to emotional reflection with generative AI:
+
+1. The person provides an initial feeling, metaphor, or selection.
+2. The AI produces a visual proposal.
+3. The image “talks back” through its visible qualities and imperfections.
+4. The person notices a mismatch between the image and the lived experience.
+5. Correcting the image helps the person reframe and articulate the experience.
+6. The revised image creates another opportunity for reflection.
+
+In this account, the AI is not an interpreter or psychological expert. It is a responsive representational material. The important unit of analysis is therefore not the generated image alone, but the repeated loop between person, image, and revision.
+
+> Expression → visual proposal → mismatch → reflection → revision → new understanding
+
+### Broader Lens: Constructivist Sensemaking
+
+This process also follows a constructivist view of meaning: emotional meaning is not simply extracted from the person by the system. It is actively formed as the person compares an external representation with their embodied and remembered experience. The image functions as a provisional object for thinking rather than an objective account of the person's internal state.
+
+This lens explains why an imperfect image may be more generative than an apparently correct one. A correct-looking output can end the interaction, while a noticeable but manageable mismatch invites comparison, explanation, and revision. However, the mismatch must remain emotionally tolerable and editable; otherwise, it may create frustration, alienation, or harm rather than reflection.
+
+### Supporting Theory: Self-Determination Theory
+
+Self-Determination Theory provides a supporting explanation for why interpretive control matters. Its concept of autonomy aligns with the user's ability to accept, reject, and transform AI output. Between should therefore support meaningful choice and ownership rather than pressure users to accept a system-generated representation.
+
+Together, the theories assign distinct roles:
+
+- **Reflective conversation with materials** explains the interaction mechanism.
+- **Constructivist sensemaking** explains how personal meaning develops through the interaction.
+- **Self-Determination Theory** explains why autonomy and ownership may influence the experience.
+
+The primary theoretical contribution should remain focused on reflective conversation with materials. The other theories can serve as supporting lenses rather than being presented as three competing foundations.
 
 ## 1. Research Questions
 
@@ -209,6 +246,8 @@ The application should therefore be described as a reflective wellbeing tool unl
 
 ## References
 
+- Ryan, R. M., & Deci, E. L. (2000). *Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being*. American Psychologist, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68
+- Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
 - Han, Y. et al. (2024). *The effects of visual art therapy on adults with depressive symptoms: A systematic review and meta-analysis*. International Journal of Mental Health Nursing. https://doi.org/10.1111/inm.13331
 - Jin, Y. et al. (2025). *Art psychotherapy meets creative AI: An integrative review positioning the role of creative AI in art therapy process*. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2025.1548396
 - Yang, M. et al. (2025). *PracticeDAPR: An AI-based Education-Supported System for Art Therapy*. Proceedings of the ACM on Human-Computer Interaction, 9(2). https://doi.org/10.1145/3711112
