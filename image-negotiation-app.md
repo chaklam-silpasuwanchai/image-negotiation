@@ -1,10 +1,39 @@
 # Between: Negotiating Emotional Images with Generative AI
 
-## Research Concept
+## Background
 
-Between is an image-based reflection application for adults experiencing low mood. Its central interaction is **image negotiation**: the system presents an imperfect visual representation, and the user selects, rejects, corrects, or transforms it. AI assists with visual production but does not diagnose the user or interpret the image.
+People experiencing low mood often find it difficult to identify or verbalize exactly what they feel. Language can seem too direct, too limited, or too demanding, particularly when a person has little emotional energy. Images offer another route: a person can recognize a mood in a scene, externalize an internal experience, and reflect on it from a small distance. Art-based practices use this capacity to support expression and meaning-making without requiring artistic skill or a complete verbal explanation at the beginning.
 
-The proposed contribution is an interaction technique for using representational mismatch with AI as a resource for emotional articulation and agency.
+Generative AI makes personalized image creation fast and accessible. A person can describe a feeling or metaphor and receive a visual response within seconds. This creates opportunities for emotional reflection, but it also introduces a fundamental problem: an AI-generated image may appear psychologically authoritative even though the system does not understand the person's experience.
+
+## Problem
+
+Most AI-supported wellbeing systems treat an accurate or attractive output as the desired result. They ask the system to recognize an emotion, generate a matching picture, or interpret a user's artwork. In a sensitive emotional context, this approach can reduce the user's agency. The generated image may be too literal, intense, generic, culturally inappropriate, or simply wrong. It may also anchor the person to the AI's first representation or suggest that the system knows what their feelings mean.
+
+However, an incorrect image is not necessarily a failed interaction. A person may initially struggle to describe a feeling but immediately recognize that an image is “too empty,” “too dramatic,” “not lonely enough,” or “missing the possibility of help.” Explaining and repairing that mismatch may reveal distinctions that were difficult to express from a blank page.
+
+## Proposed Idea: Image Negotiation
+
+Between is an image-based reflection application for adults experiencing low mood. Its central interaction is **image negotiation**: the system presents a visual proposal, and the user selects, rejects, corrects, or transforms it. Instead of asking, “What does the AI think this image says about you?” the application asks, “What did this image get wrong?”
+
+The interaction follows five stages:
+
+> Choose → correct → transform → reflect → act
+
+AI assists with visual production, but it does not diagnose the user, infer hidden emotions, or interpret the image. The user remains the authority on meaning.
+
+## Why Image Negotiation Is Interesting
+
+Image negotiation reverses the usual goal of personalized AI. The system does not need to represent the person perfectly on its first attempt. Its imperfection can become useful when disagreement prompts the user to notice, articulate, and revise aspects of their experience.
+
+This creates an interesting HCI research opportunity for four reasons:
+
+1. **Mismatch becomes a resource.** AI error is not only something to eliminate; under carefully designed conditions, it may support reflection and emotional articulation.
+2. **The user retains interpretive authority.** The design challenges systems that position AI as capable of reading emotions or decoding personal symbols.
+3. **The interaction combines low and high effort.** A person can begin by choosing an image when energy is limited and move toward deeper correction or transformation when ready.
+4. **The idea extends beyond mental wellbeing.** Image negotiation may also inform systems for identity exploration, grief, chronic illness, conflict mediation, and other experiences that are difficult to express directly.
+
+The proposed contribution is therefore not simply another AI art or wellness application. It is a new interaction technique for examining how representational disagreement with generative AI can support emotional articulation, personal agency, and reflective meaning-making.
 
 ## 1. Research Questions
 
